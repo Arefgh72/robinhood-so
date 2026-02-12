@@ -1,0 +1,10 @@
+[
+  {
+    "id": "RobinhoodChainTestnet-46630",
+    "displayName": "Robinhood Chain Testnet",
+    "network_name": "RobinhoodChainTestnet",
+    "rpc_url": "https://rpc.testnet.chain.robinhood.com/rpc",
+    "chain_id": 46630,
+    "explorer_url": "https://explorer.testnet.chain.robinhood.com"
+  }
+]
