@@ -6,7 +6,7 @@ on:
       run_count:
         description: 'Number of times to run the script'
         required: true
-        default: '1'
+        default: '3'
         type: string
   schedule:
     - cron: '23 7 * * *'
